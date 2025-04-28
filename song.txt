@@ -3,4 +3,9 @@ I was waiting all alone
 Baby by myself I sit and wait and wonder about you
 It's a dark and dreary night
 
+<<<<<<< HEAD
 and here is a new values
+=======
+
+1111
+>>>>>>> a48a6ad (Learning revert from push)
