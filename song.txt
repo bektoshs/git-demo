@@ -5,9 +5,3 @@ It's a dark and dreary night
 
 and here is a new values
 
-
-This is commited by branch 'feature'
-
-
-This is the second by 'feature'
-
